@@ -14,7 +14,7 @@ body{
 }
 #image{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3,1fr);/*I used template columns here to bulid a grid (3X3)*/
     grid-gap: 20px;
 }
 
